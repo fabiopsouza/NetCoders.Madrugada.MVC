@@ -1,0 +1,5 @@
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.Domain\obj\Debug\NetCoders.Madrugada.MVC.Domain.csprojResolveAssemblyReference.cache
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.Domain\bin\Debug\NetCoders.Madrugada.MVC.Domain.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.Domain\bin\Debug\NetCoders.Madrugada.MVC.Domain.pdb
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.Domain\obj\Debug\NetCoders.Madrugada.MVC.Domain.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.Domain\obj\Debug\NetCoders.Madrugada.MVC.Domain.pdb

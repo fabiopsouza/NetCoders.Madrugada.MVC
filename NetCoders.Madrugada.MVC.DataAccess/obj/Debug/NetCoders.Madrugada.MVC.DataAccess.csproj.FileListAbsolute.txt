@@ -1,0 +1,12 @@
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\obj\Debug\NetCoders.Madrugada.MVC.DataAccess.csprojResolveAssemblyReference.cache
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\NetCoders.Madrugada.MVC.DataAccess.dll.config
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\NetCoders.Madrugada.MVC.DataAccess.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\NetCoders.Madrugada.MVC.DataAccess.pdb
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\EntityFramework.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\NetCoders.Madrugada.MVC.Domain.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\NetCoders.Madrugada.MVC.Domain.pdb
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\EntityFramework.xml
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\obj\Debug\NetCoders.Madrugada.MVC.DataAccess.dll
+C:\workroot\github\NetCoders.Madrugada.MVC\NetCoders.Madrugada.MVC.DataAccess\obj\Debug\NetCoders.Madrugada.MVC.DataAccess.pdb
